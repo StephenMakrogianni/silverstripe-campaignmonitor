@@ -15,7 +15,7 @@
     "require": {
 		"silverstripe/framework": "^4",
         "composer/installers": "*",
-        "campaignmonitor/createsend-php": "v5.1"
+        "campaignmonitor/createsend-php": "^5.1"
     },
     "extra": {
         "installer-name": "campaignmonitor"
